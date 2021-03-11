@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color:white;
+    font-weight: 800;
+    font-size: 50px;
+    padding-top: 150px;
+}
+.header{
+    background-image: url("../../Photo/headerBackground1.jpg");
+    background-size: cover;
+    height: 400px;
+    margin-bottom: 50px;
+}
